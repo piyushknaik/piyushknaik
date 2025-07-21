@@ -2,7 +2,11 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=piyushknaik.piyushknaik)
 ## 
 
-I'm Piyush! I am a passionate learner transitioning into the field of machine learning to explore its vast potential and diverse use cases. With a focus on understanding and applying ML techniques across various domains, I am actively engaging in projects and collaborations to broaden my skills and deepen my knowledge. Driven by curiosity and a commitment to growth, I aim to contribute meaningful insights and solutions through data-driven approaches.
+Hi, I'm Piyush Naik – a passionate learner and technology enthusiast with a strong focus on applying machine learning principles to solve real-world problems. I’m actively engaged in hands-on projects and collaborations that span domains such as NLP, computer vision, and data-driven automation.
+
+With a continuous learning mindset and a solid foundation in full-stack development, I’m now expanding my expertise by integrating ML techniques into practical, impactful solutions. I enjoy exploring innovative use cases and leveraging data to deliver actionable insights and intelligent systems.
+
+Driven by curiosity, a growth-oriented mindset, and a commitment to excellence, my goal is to contribute to organizations by building scalable, reliable, and efficient AI/ML solutions that generate measurable business value.
 
 ## 
 
